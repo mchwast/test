@@ -1,1 +1,2 @@
 zmina lokalna 2 przed push
+zmina online 1
