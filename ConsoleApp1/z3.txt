@@ -1,2 +1,4 @@
 zmina lokalna 2 przed push 2
 2 zmina online 2
+zmana na banch dev
+jeszcze zmany na dev
