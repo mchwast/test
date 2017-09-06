@@ -1,3 +1,5 @@
 zmina lokalna 2 przed push 2
 2 zmina online 3
 zmana na banchu juz zmigrowana
+zmana na banch dev
+jeszcze zmany na dev
