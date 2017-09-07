@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-//pole 44 online ma zostac 2bc0
+//pole 44 online ma zostac 2bc01
 namespace ConsoleApp1
 {//66
     //8
-    class Programlocal zostaje poprawionybder
+    class Programlocal zostaje poprawionybder1
     {
         static void Main(string[] args)
         {
