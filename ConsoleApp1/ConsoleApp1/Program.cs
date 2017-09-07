@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace ConsoleApp1
 {//66
     //8
-    class Programlocal zostaje poprawionybder1
+    class Programlocal zostaje poprawionybderz1
     {
         static void Main(string[] args)
         {
@@ -17,7 +17,7 @@ namespace ConsoleApp1
             /////55
                       //9
             //10
-			//pole lokamle ma zostacdr
+			//pole lokamle ma zostacdrz
         }
     }
 }
