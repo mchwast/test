@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace ConsoleApp1
 {//66
     //8
-    class Programzmiana online osonac
+    class Programlocal zostaje
     {
         static void Main(string[] args)
         {
@@ -17,7 +17,7 @@ namespace ConsoleApp1
             /////55
                       //9
             //10
-			//pole 2
+			//pole lokamle ma zostac
         }
     }
 }
