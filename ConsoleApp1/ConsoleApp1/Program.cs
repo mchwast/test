@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//pole 1
 namespace ConsoleApp1
 {//66
     //8
-    class Program
+    class Program12
     {
         static void Main(string[] args)
         {
